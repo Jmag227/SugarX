@@ -1,0 +1,16 @@
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\bin\Debug\net5.0\Sugar.exe
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\bin\Debug\net5.0\Sugar.deps.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\bin\Debug\net5.0\Sugar.runtimeconfig.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\bin\Debug\net5.0\Sugar.runtimeconfig.dev.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\bin\Debug\net5.0\Sugar.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\bin\Debug\net5.0\ref\Sugar.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\bin\Debug\net5.0\Sugar.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\obj\Debug\net5.0\Sugar.csproj.AssemblyReference.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\obj\Debug\net5.0\Sugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\obj\Debug\net5.0\Sugar.AssemblyInfoInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\obj\Debug\net5.0\Sugar.AssemblyInfo.cs
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\obj\Debug\net5.0\Sugar.csproj.CoreCompileInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\obj\Debug\net5.0\Sugar.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\obj\Debug\net5.0\ref\Sugar.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\obj\Debug\net5.0\Sugar.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\OperatorExercise\Sugar\Sugar\obj\Debug\net5.0\Sugar.genruntimeconfig.cache
